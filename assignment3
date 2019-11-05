@@ -6,8 +6,11 @@
   p {font-size: 30px;}
  
 
- {<video src="<iframe width="560" height="315" src="https://www.youtube.com/embed/BC0FMaeAUmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" width="320" height="200" controls preload></video>}
+ 
 
   </style>
 
 </head>
+<body>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BC0FMaeAUmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
