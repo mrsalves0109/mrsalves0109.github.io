@@ -1,0 +1,20 @@
+<html>
+<head> 
+ <style>
+body{
+  background-color: #5A698A;
+}
+</style>
+<title>Blender Assignment # 1</title>
+ 
+  
+  <h2>My first render using Blender</h2>
+  </title>
+  </head>
+  
+  <body>
+<img src="blender1.jpg">
+<br><br><br>
+
+</body>
+   </html>
